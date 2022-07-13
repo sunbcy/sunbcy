@@ -14,3 +14,8 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+🔭 I’m currently working on a component middle platform department in Sangfor
+🌱 I’m focus on data collection and pcap analysis
+📫 How to reach me: saintbcy@163.com
+📚 csdn(CSDN)：https://blog.csdn.net/sunbcy
+🐦 yuque(语雀)：https://www.yuque.com/sunbcy
