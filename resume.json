@@ -92,13 +92,13 @@
     },
     {
       "skill_name": "Python脚本开发",
-      "skill_desc": "熟悉全天候系统办公生产环境下的Python脚本开发及打包工具使用,了解常用的shell命令,掌握Django框架、Flask框架,网络编程,多线程多进程,异步协程,网络爬虫,自动化测试框架selenium等",
+      "skill_desc": "熟悉LINUX/WINDOWS/MACOS/UBUNTU系统办公生产环境下的Python脚本开发, 了解常用的shell命令,掌握Django框架、Flask框架,网络编程,多线程多进程,异步协程,网络爬虫,自动化测试框架selenium等",
       "skill_level": 90,
       "dataIndex": 1
     },
     {
-      "skill_name": "JavaScript开发",
-      "skill_desc": "掌握前端HTML&CSS&JS,了解Ajax,jQuery,常用vue-element-admin框架",
+      "skill_name": "Web开发",
+      "skill_desc": "掌握前端HTML&CSS&JS,了解Javascript,Typescript,常用vue-element-admin框架开发",
       "skill_level": 70,
       "dataIndex": 2
     },
@@ -130,15 +130,15 @@
       "project_time": "2022.11 - 2023.2",
       "project_name": "pcm任务推送自动化",
       "project_role": "项目负责人&Coder",
-      "project_desc": "开发python脚本, 根据配置自动化获取数据, 定制化清洗, 通过邮箱, 企业微信, 飞书机器人,360天擎弹窗等方式按要求定时分发当天异常消息通知给对应行员, 完成pcm脚本推送闭环任务,保障终端安全运行",
-      "project_content": "\n1. 从0到1的项目需求分析 \n2. 根据需求逐个模块搭建, 编码测试 \n3. 建立稳定性保障机制, 不断迭代，不断解决异常,形成闭环,提高消息推送系统稳定性\n技术栈:Python3+邮件接口+企微接口+360天擎接口",
+      "project_desc": "开发python脚本, 根据配置自动化获取数据, 定制化清洗输出excel文档附件及json, 通过邮箱, 企业微信, 飞书机器人,360天擎弹窗等方式按要求定时分发当天异常消息通知给对应行员, 完成pcm脚本推送闭环任务, 保障终端安全运行",
+      "project_content": "\n1. 从0到1的项目需求分析 \n2. 根据需求逐个模块搭建, 编码测试 \n3. 建立稳定性保障机制, 不断迭代，不断解决异常,形成闭环,提高消息推送系统稳定性\n技术栈:Python3+邮件接口+企微接口+360天擎API+pandas",
       "dataIndex": 2
     },
     {
       "project_name": "千万级图片爬虫框架",
       "project_role": "项目负责人&Coder",
-      "project_desc": "本项目在本地设计部署了千万级图片存储服务, 实现了海量图片数据本地持久化存储,为后续进行机器学习提供数据集",
-      "project_content": "\n1. 从0到1的爬虫框架设计和开发 \n2.探索和优化爬取方案以及存储结构 \n3. 建立可持久化存储机制,持续迭代.\n技术栈:Python3+Redis+MySQL",
+      "project_desc": "本项目在本地设计部署了千万级图片存储服务, 实现了海量图片数据数据采集并本地持久化存储, 为后续进行机器学习提供数据集",
+      "project_content": "\n1. 从0到1的爬虫框架设计和开发 \n2.探索和优化爬取方案以及存储结构 \n3. 建立可持久化存储机制,持续迭代.\n技术栈:Python3+Requests+XPath+JSON+Redis+MySQL",
       "dataIndex": 3,
       "project_time": "2020.4 - 2021.12"
     },
@@ -146,7 +146,7 @@
       "project_name": "数据包自动化分析",
       "project_role": "项目负责人&Coder",
       "project_desc": "使用网络安全分析模块进行数据包分析. 提取数据包信息, 如源、目的IP,解密流量特征以及域名信息,DNS信息并进行流量数据统计分析",
-      "project_content": "\n1. 从0到1的代码设计和开发 \n2. 对流行应用和内网常见资源服务,进行应用流量特征提取 \n3. 建立稳定性保障机制。持续迭代, 帮助提升AC设备的网络协议流量识别效果\n技术栈:Python+Scapy+Flask+Echarts",
+      "project_content": "\n1. 从0到1的代码设计和开发 \n2. 对流行应用和内网常见资源服务,进行应用流量特征提取 \n3. 建立稳定性保障机制。持续迭代, 帮助提升AC设备的网络协议流量识别效果\n技术栈:Python+Scapy+Flask+Echarts+CI/CD",
       "dataIndex": 4,
       "project_time": "2020.4 - 2021.12"
     },
@@ -155,7 +155,7 @@
       "project_role": "项目负责人&Coder",
       "project_time": "2021.12 - 2022.9",
       "project_desc": "本项目研究了上百个网络协议的特征,包括http、dns、ajp、irc等,分析网络协议的相关数据包并提取数据包中的协议特征部分入库,并编写代码组织测试,验证设备的识别情况.",
-      "project_content": "\n1. 从0到1的网络协议分析学习 \n2. 参考RFC文档进行特征提取 \n3. 建立稳定性保障机制, 不断迭代, 帮助AC设备应用流量识别效果的提升\n技术栈:无",
+      "project_content": "\n1. 从0到1的网络协议分析学习 \n2. 参考RFC文档进行特征提取 \n3. 建立稳定性保障机制, 不断迭代, 帮助AC设备应用流量识别效果的提升\n技术栈:HTTP/HTTPS+DevOps",
       "dataIndex": 5
     }
   ],
