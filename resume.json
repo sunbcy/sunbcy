@@ -155,7 +155,7 @@
       "project_role": "项目负责人&Coder",
       "project_time": "2021.12 - 2022.9",
       "project_desc": "本项目研究了上百个网络协议的特征,包括http、dns、ajp、irc等,分析网络协议的相关数据包并提取数据包中的协议特征部分入库,并编写代码组织测试,验证设备的识别情况.",
-      "project_content": "\n1. 从0到1的网络协议分析学习 \n2. 参考RFC文档进行特征提取 \n3. 建立稳定性保障机制, 不断迭代, 帮助AC设备应用流量识别效果的提升\n技术栈:HTTP/HTTPS+DevOps",
+      "project_content": "\n1. 从0到1的网络协议分析学习 \n2. 参考RFC文档进行特征提取 \n3. 建立稳定性保障机制, 不断迭代, 帮助AC设备应用流量识别效果的提升\n技术栈:HTTP/HTTPS+TCP/IP+DevOps",
       "dataIndex": 5
     }
   ],
