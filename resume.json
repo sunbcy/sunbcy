@@ -118,14 +118,14 @@
       "dataIndex": 4,
       "project_time": "2020.4 - 2021.12"
     },
-    // {
-    //   "project_name": "千万级图片爬虫框架",
-    //   "project_role": "项目负责人&Coder",
-    //   "project_desc": "本项目在本地设计部署了千万级图片存储服务, 实现了海量图片数据本地持久化存储,为后续进行机器学习提供数据集",
-    //   "project_content": "\n1. 从0到1的爬虫框架设计和开发 \n2.探索和优化爬取方案以及存储结构 \n3. 建立可持久化存储机制,持续迭代.\n技术栈:Python3+Redis+MySQL",
-    //   "dataIndex": 3,
-    //   "project_time": "2020.4 - 2021.12"
-    // },
+    {
+      "project_name": "千万级图片爬虫框架",
+      "project_role": "项目负责人&Coder",
+      "project_desc": "本项目在本地设计部署了千万级图片存储服务, 实现了海量图片数据本地持久化存储,为后续进行机器学习提供数据集",
+      "project_content": "\n1. 从0到1的爬虫框架设计和开发 \n2.探索和优化爬取方案以及存储结构 \n3. 建立可持久化存储机制,持续迭代.\n技术栈:Python3+Redis+MySQL",
+      "dataIndex": 3,
+      "project_time": "2020.4 - 2021.12"
+    },
     {
       "project_name": "网络协议分析及特征提取",
       "project_role": "项目负责人&Coder",
